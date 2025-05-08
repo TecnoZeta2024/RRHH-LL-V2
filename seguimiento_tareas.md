@@ -8,14 +8,15 @@ Este documento rastrea el progreso de las tareas de desarrollo para el proyecto 
 - [x] Crear archivo `seguimiento_tareas.md`.
 
 ## Fase 2: Configuración del Entorno
-- [ ] Inicializar repositorio Git.
-- [ ] Configurar ramas Git-flow (`develop`, `version`, `main`).
+- [x] Inicializar repositorio Git.
+- [x] Configurar ramas Git-flow (`develop`, `version`, `main`).
 
 ## Fase 3: Desarrollo Iterativo de Features (Frontend-First para F1, F2, F4)
 
 ### Feature 1: Gestión de Personal (CRUD)
-- [ ] **Frontend (Mobile):** Implementar UI y lógica para CRUD de Personal.
-- [ ] **Frontend (Web):** Implementar UI y lógica para CRUD de Personal.
+- [x] **Frontend (Mobile):** Implementar UI y lógica para CRUD de Personal.
+- [x] **Frontend (Web):** Implementar UI y lógica para CRUD de Personal (Basic tests passed, more tests needed).
+- [x] **Frontend (Web):** Escribir pruebas completas para la funcionalidad CRUD de Personal.
 - [ ] **Backend:** Implementar API y lógica para CRUD de Personal (Model, Controller, Service, Repository).
 - [ ] **Backend:** Implementar migraciones de base de datos para tabla de Personal.
 

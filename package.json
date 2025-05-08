@@ -1,0 +1,29 @@
+{
+  "name": "rrhh-ll-v2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "jest web/src/features/personnel"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TecnoZeta2024/RRHH-LL-V2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/TecnoZeta2024/RRHH-LL-V2/issues"
+  },
+  "homepage": "https://github.com/TecnoZeta2024/RRHH-LL-V2#readme",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}
